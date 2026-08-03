@@ -1,6 +1,6 @@
 import React from 'react'
 import produtosEcommerce from '../Arquivos/ListaItens.js'
-import imagemPadrao from '../assets/sem-Foto.png'
+import imagemPadrao from '../assets/sem-foto.png'
 import { useCarrinho } from '../CarrinhoProvider.jsx'
 import { Link } from 'react-router-dom'
 

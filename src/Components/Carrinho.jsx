@@ -1,6 +1,6 @@
 import React from 'react'
 import { useCarrinho } from '../CarrinhoProvider'
-import imagemPadrao from '../assets/sem-Foto.png'
+import imagemPadrao from '../assets/sem-foto.png'
 
 export default function Carrinho() {
 
